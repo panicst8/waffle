@@ -1,0 +1,8 @@
+{
+  "name": "waffle",
+  "app_id": "0f40dc3d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
